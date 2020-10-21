@@ -1,4 +1,4 @@
-We recommend Akri to enable leaf device access on the cluster.
+We recommend [Akri](https://github.com/deislabs/akri) to enable leaf device access on the cluster.
 
 ## Prerequisites:
 Before performing the procedure in this topic, you must have installed and configured the following:
